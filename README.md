@@ -2,8 +2,7 @@
 
 Repository for the **Applied Statistics** module at [Your University Name].
 
-**Author:** Your Name  
-**Student ID:** Your ID  
+**Author:** Francesca Ruberto
 **Academic Year:** 2026/27  
 **Lecturer:** Ian McLoughlin
 
