@@ -1,6 +1,6 @@
 # Applied Statistics
 
-Repository for the **Applied Statistics** module at [Your University Name].
+Repository for the **Applied Statistics** module at ATU.
 
 **Author:** Francesca Ruberto
 **Academic Year:** 2026/27  
