@@ -3,8 +3,8 @@
 Repository for the **Applied Statistics** module at ATU.
 
 **Author:** Francesca Ruberto
-**Academic Year:** 2026/27  
-**Lecturer:** Ian McLoughlin
+**Academic Year:** 2026/27
+
 
 ## Overview
 
